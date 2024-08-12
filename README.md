@@ -24,7 +24,7 @@ Utiliza-se HTML, CSS e JavaScript para a construção das interfaces e funcional
 Qualquer dúvida ou feedback, entre em contato com Felipe.
 
 ## Licença
-Este projeto está licenciado sob a [Felipe Casale]. 
+Este projeto está licenciado sob Felipe Casale. 
 
 ## Contato
 Para perguntas ou sugestões, entre em contato em felipecasale75@gmail.com
